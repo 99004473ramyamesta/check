@@ -12,4 +12,6 @@ commit:
 
 push:
 	git status
+	git remote add origin https://github.com/99004473ramyamesta/check.git
 	git push -u origin main
+	
