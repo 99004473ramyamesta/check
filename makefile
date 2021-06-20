@@ -11,4 +11,5 @@ commit:
 	git commit -m "commit"
 
 push:
+	git status
 	git push -u origin main
